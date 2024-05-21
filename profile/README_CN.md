@@ -1,6 +1,6 @@
 ## 你好
 
-[English](README.md) | 简体中文
+[English](profile/README.md) | 简体中文
 
 这里是南京大学 [CITE](https://cite.nju.edu.cn)（计算成像技术）实验室的编码组。我们主要进行基于深度学习的压缩算法研究，包括图像、视频和特征压缩。
 
