@@ -1,5 +1,7 @@
 ## Hi
 
+English | [简体中文](README_CN.md)
+
 Here is compression group in [CITE](https://cite.nju.edu.cn) (Computational Imaging Technology) Lab, Nanjing University. We are focusing on the research of compression, including image, video, and feature compression based on deep learning.
 
 Contact:
