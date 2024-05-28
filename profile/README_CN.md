@@ -1,4 +1,4 @@
-## 你好！:wave:
+## 你好！ :wave:
 
 [English](https://github.com/NJU-CITE-Compression/.github/blob/main/profile/README.md) | 简体中文
 
