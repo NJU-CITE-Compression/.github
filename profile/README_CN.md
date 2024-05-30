@@ -15,9 +15,9 @@
 
 ## 发表论文
 
-* Zhicheng Cai, Qiu Shen. Encoding Semantic Priors into the Weights of Implicit Neural Representation[C]//2024 IEEE International Conference on Multimedia and Expo (ICME). IEEE, 2024.
-* Zhicheng Cai, Hao Zhu, Qiu Shen, Xinran Wang, Xun Cao. Batch Normalization Alleviates the Spectral Bias in Coordinate Networks[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). 2024.
-* Linfeng Liu, Tong Chen, Haojie Liu, et al. 2C-Net: integrate image compression and classification via deep neural network[J]. Multimedia Systems, 2023, 29(3): 945-959.
-* 刘霖枫, 沈秋, 马展, 等. 一种视频图像的处理方法、装置与系统[P]. 浙江省: CN202010798009.7, 2022-12-23.
-* Linfeng Liu, Haojie Liu, Tong Chen, et al. Codedretrieval: Joint image compression and retrieval with neural networks[C]//2019 IEEE Visual Communications and Image Processing (VCIP). IEEE, 2019: 1-4.
-* Qiu Shen, Juanjuan Cai, Linfeng Liu, et al. Codedvision: Towards joint image understanding and compression via end-to-end learning[C]//Pacific Rim Conference on Multimedia. Cham: Springer International Publishing, 2018: 3-14.
+* **Zhicheng Cai**, **Qiu Shen**. Encoding Semantic Priors into the Weights of Implicit Neural Representation[C]//2024 IEEE International Conference on Multimedia and Expo (ICME). IEEE, 2024.
+* **Zhicheng Cai**, Hao Zhu, **Qiu Shen**, Xinran Wang, Xun Cao. Batch Normalization Alleviates the Spectral Bias in Coordinate Networks[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). 2024.
+* **Linfeng Liu**, Tong Chen, Haojie Liu, Shiliang Pu, Li Wang, **Qiu Shen**. 2C-Net: Integrate Image Compression and Classification via Deep Neural Network[J]. Multimedia Systems, 2023, 29(3): 945-959.
+* **刘霖枫**, **沈秋**, 马展, 王莉, 武晓阳. 一种视频图像的处理方法、装置与系统[P]. 浙江省: CN202010798009.7, 2022-12-23.
+* **Linfeng Liu**, Haojie Liu, Tong Chen, **Qiu Shen**, Zhan Ma. Codedretrieval: Joint Image Compression and Retrieval with Neural Networks[C]//2019 IEEE Visual Communications and Image Processing (VCIP). IEEE, 2019: 1-4.
+* **Qiu Shen**, Juanjuan Cai, **Linfeng Liu**, Haojie Liu, Tong Chen, Long Ye, Zhan Ma. CodedVision: Towards Joint Image Understanding and Compression via End-to-End Learning[C]//Pacific Rim Conference on Multimedia. Cham: Springer International Publishing, 2018: 3-14.
