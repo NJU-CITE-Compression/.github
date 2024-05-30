@@ -4,7 +4,7 @@ English | [简体中文](https://github.com/NJU-CITE-Compression/.github/blob/ma
 
 Here is compression group in [CITE](https://cite.nju.edu.cn) (Computational Imaging Technology) Lab, Nanjing University. We are focusing on deep learning based visual compression methods, including image, video, 3D and feature compression. We are also studying to turn the compression algorithms into chip designs.
 
-![AIC](AIC.png)
+![AIC.png](https://github.com/NJU-CITE-Compression/.github/raw/main/profile/AIC.png)
 
 ## Members
 

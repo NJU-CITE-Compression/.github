@@ -4,7 +4,7 @@
 
 这里是南京大学 [CITE](https://cite.nju.edu.cn)（计算成像技术）实验室的编码组。我们主要进行基于深度学习的视觉压缩算法研究，包括图像、视频、3D和特征压缩。同时我们也在研究将压缩算法转化为芯片设计。
 
-![AIC](AIC.png)
+![AIC.png](https://github.com/NJU-CITE-Compression/.github/raw/main/profile/AIC.png)
 
 ## 成员
 
