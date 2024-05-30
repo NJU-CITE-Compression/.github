@@ -4,6 +4,8 @@
 
 这里是南京大学 [CITE](https://cite.nju.edu.cn)（计算成像技术）实验室的编码组。我们主要进行基于深度学习的视觉压缩算法研究，包括图像、视频、3D和特征压缩。同时我们也在研究将压缩算法转化为芯片设计。
 
+![AIC](AIC.png)
+
 ## 成员
 
 * 沈秋（副教授） | :email:[邮箱](mailto:shenqiu@nju.edu.cn) | :link:[主页](https://cite.nju.edu.cn/People/Faculty/20220722/i226168.html)
