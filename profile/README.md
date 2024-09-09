@@ -8,7 +8,7 @@ Here is compression group in [CITE](https://cite.nju.edu.cn) (Computational Imag
 
 ## Members
 
-* Qiu Shen (Associate Professor) | :email:[email](mailto:shenqiu@nju.edu.cn) | :link:[homepage](https://cite.nju.edu.cn/People/Faculty/20220722/i226168.html)
+* Qiu Shen (Associate Professor) | :email:[email](mailto:shenqiu@nju.edu.cn) | :link:[homepage](https://shenqiu.njucite.cn)
 * Peijie Diao (Ph.D.) | :email:[email](mailto:pjdiao@smail.nju.edu.cn) | :link:[homepage](https://www.do1e.cn) | [github](https://github.com/Do1e)
 * Linfeng Liu (Ph.D.) | :email:[email](mailto:linfeng@smail.nju.edu.cn)
 * Zhicheng Cai (M.S.) | :email:[email](mailto:502022230088@smail.nju.edu.cn)
