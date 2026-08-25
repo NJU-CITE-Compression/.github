@@ -9,7 +9,7 @@
 ## 成员
 
 * 沈秋（副教授） | :email:[邮箱](mailto:shenqiu@nju.edu.cn) | :link:[主页](https://shenqiu.njucite.cn)
-* 刁培杰（博士研究生） | :email:[邮箱](mailto:pjdiao@smail.nju.edu.cn) | :link:[主页](https://www.do1e.cn) | [github](https://github.com/Do1e)
+* 刁培杰（博士研究生） | :email:[邮箱](mailto:pjdiao@smail.nju.edu.cn) | :link:[主页](https://do1e.com) | [github](https://github.com/Do1e)
 * 刘霖枫（博士研究生） | :email:[邮箱](mailto:linfeng@smail.nju.edu.cn)
 * 蔡志成（硕士研究生） | :email:[邮箱](mailto:502022230088@smail.nju.edu.cn)
 
